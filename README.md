@@ -2,7 +2,7 @@
 
 ### DSI-9 Capstone Project: A Predictive Regression Model For Digital Marketers
 
-This project was executed during my time at the Data Science Immersive course at General Assembly (GA) in London
+This project was completed during my time at the General Assembly Data Science Immersive course in London.
 
 - - - -
 #### Files in this repository:
