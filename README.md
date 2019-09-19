@@ -14,6 +14,7 @@ This project was completed during my time at the General Assembly Data Science I
   * The [Google Slides Version](https://docs.google.com/presentation/d/1Hudv0TvJ6jp7txaUcfAKBlN_rDH0PgFqPK1Udow8D3s/edit?usp=sharing')
   * The [Microsoft PowerPoint Version](/docs/Capstone_Presentation.pptx)
 
+- - - -
 
 #### Other Interesting Scripts:
 
