@@ -17,6 +17,6 @@ This project was completed during my time at the General Assembly Data Science I
 
 #### Other Interesting Scripts:
 
- 1. I created a [multi-threaded web scraper](/Web_Crawlers/Multi_Thread_Article_Scraper.ipynb) using Python libraries such as: from concurrent.futures import ThreadPoolExecutor 
- 2. I[created custom sci-kit learn custom classes](https://github.com/jamesaphoenix/Custom_Sci-kit_Learn_Classes) for smoothly executing pipelines that included numerical and text data. 
+ 1. Created a [multi-threaded web scraper](/Web_Crawlers/Multi_Thread_Article_Scraper.ipynb) using Python libraries such as: from concurrent.futures import ThreadPoolExecutor 
+ 2. [Created custom sci-kit learn custom classes](https://github.com/jamesaphoenix/Custom_Sci-kit_Learn_Classes) for smoothly executing pipelines that included numerical and text data. 
  3. Utilised a [Google Page Speed Insights API python script](/Data-Google_Page_Speed_Insights/Google_Page_Speed_Insights.py.ipynb) to collect web page speed data for 15,000 articles.
