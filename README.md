@@ -16,7 +16,7 @@ This project was completed during my time at the General Assembly Data Science I
 
 - - - -
 
-#### Other Interesting Scripts:
+#### Other interesting scripts:
 
  1. Created a [multi-threaded web scraper](/Web_Crawlers/Multi_Thread_Article_Scraper.ipynb) using Python libraries such as: from concurrent.futures import ThreadPoolExecutor 
  2. [Created custom sci-kit learn custom classes](https://github.com/jamesaphoenix/Custom_Sci-kit_Learn_Classes) for smoothly executing pipelines that included numerical and text data. 
