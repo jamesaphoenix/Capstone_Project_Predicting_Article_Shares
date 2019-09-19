@@ -1,6 +1,6 @@
 # Predicting Article Shares Within The Digital Marketing Indsutry
 
-### DSI-9 Capstone Project: A Predictive Machine Learning Regression Model To Aid Digital Marketers
+### DSI-9 Capstone Project: A Machine Learning Regression Model For Digital Marketers
 
 This project was completed during my time at the General Assembly Data Science Immersive course in London.
 
