@@ -1,4 +1,4 @@
-# Predicting Article Shares Within The Digital Marketing Indsutry
+# Predicting Article Shares Within The Digital Marketing Industry
 
 ### DSI-9 Capstone Project: A Machine Learning Regression Model For Digital Marketers
 
